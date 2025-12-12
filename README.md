@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3498db&size=35&center=true&vCenter=true&width=1000&lines=👋 Olá,+Seja+bem-vindo!;🎓 Sou+Pablo+Miguel,+Estudante+de+DS!;🚀 Focado+em+aprender+e+codificar!)](https://git.io/typing-svg)
 
 <p align="center">
 
@@ -40,7 +39,6 @@ Minha paixão está em transformar ideias em código, e este repositório é ond
 *Este espaço mostra minhas atividades e contribuições.*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME_GITHUB&show_icons=true&theme=default&hide_rank=true" alt="Estatísticas do GitHub" />
 </p>
 
 <p align="center">
